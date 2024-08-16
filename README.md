@@ -1,16 +1,17 @@
-```markdown
-# VS Code Custom Theme
 
-Este repositório contém arquivos de configuração JSON para personalizar o tema do Visual Studio Code. Com essas configurações, você pode alterar as cores de fundo, a barra de título, a barra de status e outros elementos para um tema de cor preta.
+#### VS Code Custom Theme
 
-![Tema Personalizado do VS Code](/home/julio/Documentos/GitHub/Theme-BeardPro/README.md)
+## Este repositório contém arquivos de configuração JSON para personalizar o tema do Visual Studio Code. Com essas configurações, você pode alterar as cores de fundo, a barra de título, a barra de status e outros elementos para um tema de cor preta.
+
+![Tema Personalizado do VS Code](.them/tema-exemplo.png)
+
 ## Instalação
 
 ### 1. Clone o Repositório
 
-Clone este repositório para o seu computador:
+- Clone este repositório para o seu computador:
 
-```bash
+
 git clone https://github.com/seu-usuario/vscode-custom-theme.git
 ```
 
@@ -56,5 +57,3 @@ Este tema foi inspirado no [Bearded Theme](https://marketplace.visualstudio.com/
 2. **Orientação Clara**: Certifique-se de que cada etapa seja simples e fácil de seguir.
 3. **Customizações Incluídas**: Descreva as principais personalizações feitas no tema.
 4. **Seção de Problemas e Feedback**: Inclua uma forma dos usuários fornecerem feedback ou reportarem problemas.
-
-Este README deve ajudar qualquer pessoa a configurar o tema personalizado do VS Code facilmente.
