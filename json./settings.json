@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Bearded Theme Anthracite",
+    "cmake.options.statusBarVisibility": "visible",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "bearded-icons",
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "cmake.showOptionsMovedNotification": false,
+    "explorer.confirmDragAndDrop": false,
+    "python.createEnvironment.trigger": "off",
+    "workbench.sideBar.location": "right",
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast",
+    "workbench.colorCustomizations": {
+
+    },
+    "window.menuBarVisibility": "toggle",
+    "workbench.settings.useSplitJSON": true,
+    "editor.minimap.enabled": false
+}
