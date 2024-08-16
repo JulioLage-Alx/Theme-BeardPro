@@ -1,9 +1,8 @@
+# VS Code Custom Theme
 
-#### VS Code Custom Theme
+Este repositório contém arquivos de configuração JSON para personalizar o tema do Visual Studio Code. Com essas configurações, você pode alterar as cores de fundo, a barra de título, a barra de status e outros elementos para um tema de cor preta.
 
-## Este repositório contém arquivos de configuração JSON para personalizar o tema do Visual Studio Code. Com essas configurações, você pode alterar as cores de fundo, a barra de título, a barra de status e outros elementos para um tema de cor preta.
-
-![Tema Personalizado do VS Code](.them/tema-exemplo.png)
+![Tema Personalizado do VS Code](./them/tema-exemplo.png)
 
 ## Instalação
 
@@ -11,8 +10,8 @@
 
 - Clone este repositório para o seu computador:
 
-
-git clone https://github.com/seu-usuario/vscode-custom-theme.git
+```bash
+git clone https://github.com/JulioLage-Alx/Theme-BeardPro.git
 ```
 
 ### 2. Abra as Configurações do VS Code
@@ -49,11 +48,13 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, por favor, a
 ---
 
 Este tema foi inspirado no [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.bearded-theme).
-```
 
 ### Instruções de Uso
 
-1. **Clonagem do Repositório**: Substitua `seu-usuario` pelo seu nome de usuário do GitHub.
-2. **Orientação Clara**: Certifique-se de que cada etapa seja simples e fácil de seguir.
-3. **Customizações Incluídas**: Descreva as principais personalizações feitas no tema.
-4. **Seção de Problemas e Feedback**: Inclua uma forma dos usuários fornecerem feedback ou reportarem problemas.
+1. **Clonagem do Repositório**: Certifique-se de clonar o repositório usando o seu nome de usuário do GitHub.
+2. **Orientação Clara**: Siga as etapas fornecidas neste documento para aplicar as personalizações.
+3. **Customizações Incluídas**: Verifique a seção "Customizações Incluídas" para entender as principais alterações feitas no tema.
+4. **Seção de Problemas e Feedback**: Utilize a seção apropriada para fornecer feedback ou reportar quaisquer problemas encontrados.
+```
+
+Este README deve fornecer todas as informações necessárias para configurar e personalizar o tema do Visual Studio Code com facilidade.
